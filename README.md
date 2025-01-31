@@ -2,7 +2,7 @@
 
 Um entusiasta de tecnologia desde os 17, gosto de projetos open source como Distros Linux (particularmente o Fedora <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="20" height="20"/>), K8's, Ansible e Android, exploro áreas como DevOps, Qualidade de Software/Sistemas, IA e Engenharia de Dados.
 
-Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino de tecnologia e estudo tópicos em alta no setor, como Ciência de Dados, Analytics, Cloud e Edge Computing. Meu objetivo é colaborar com projetos inovadores e contribuir para a transformação digital de empresas e organizações.
+Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino de tecnologia e estudo tópicos em alta no setor, como Ciência de Dados, Analytics, Cloud e Edge Computing. Meu objetivo é colaborar com projetos inovadores e contribuir para a transformação digital e confiabilidade de sistemas.
 
 ## 🚀 Tecnologias e Ferramentas 🛠️
 ### 🔹 Frontend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20"/> & Backend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="33" height="33"/>
@@ -43,14 +43,8 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 - Fortran
 - Scratch
 
----
-
-Estou sempre aberto a novas oportunidades, desafios e colaborações. Se você quer trocar ideias, contribuir com um projeto ou apenas bater um papo sobre tecnologia e suas utilidades, fique à vontade para me chamar! 😊🚀
-
-🔢 Contato: (11) 957319238
-
-✉️ E-mail: herbertfscarvalho@gmail.com
+## Estou sempre aberto a novas oportunidades, desafios e colaborações. Se você quer trocar ideias, contribuir com um projeto ou apenas bater um papo sobre tecnologia e suas utilidades, fique à vontade para se conectar! 😁⤵️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"/> https://www.linkedin.com/in/herbertfscarvalho/
 
-🌐🚩 São Paulo - SP (ZS)
+📍São Paulo - SP (ZS)
