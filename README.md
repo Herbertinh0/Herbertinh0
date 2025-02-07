@@ -1,6 +1,6 @@
 # Olá mundo!👋 Bem vindo ao meu GitHub!
 
-Um entusiasta de tecnologia desde os 17, gosto de projetos open source como Distros Linux (particularmente o Fedora <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="20" height="20"/>), K8's, Ansible e Android, exploro áreas como DevOps, Qualidade de Software/Sistemas, IA e Engenharia de Dados.
+Um entusiasta de tecnologia desde os 17, gosto de projetos open source como Distros Linux (particularmente o Fedora <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="20" height="20"/>), K8's, Ansible e Android, exploro áreas como SRE, Qualidade de Software/Sistemas, IA e Engenharia de Dados.
 
 Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino de tecnologia e estudo tópicos em alta no setor, como Ciência de Dados, Analytics, Cloud e Edge Computing. Meu objetivo é colaborar com projetos inovadores e contribuir para a transformação digital e confiabilidade de sistemas.
 
