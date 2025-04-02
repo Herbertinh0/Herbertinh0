@@ -36,6 +36,7 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 ### 🔹 Documentação e teste de API's <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="23" height="23"/>
 - Postman
 - Swagger
+- Insomnia
 
 ### 🔹 Identidade e Acesso 🪪🥸
 - Microsoft Entra ID & Exchange
