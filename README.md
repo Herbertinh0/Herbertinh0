@@ -10,6 +10,8 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 - CSS
 - Angular
 - Node.js
+- Axios
+- Flask
 - Spring Boot
 
 ### 🔹 Computação/Servicos em Nuvem <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" height="20"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> 
