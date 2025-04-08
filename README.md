@@ -2,10 +2,13 @@
 
 Um entusiasta de tecnologia desde os 17, gosto de projetos open source como Distros Linux (particularmente o Fedora <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="20" height="20"/>), K8's e Android, exploro áreas como SRE, Qualidade de Software/Sistemas, IA e Engenharia de Dados.
 
-Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino de tecnologia e estudo tópicos em alta no setor, como Ciência de Dados, Analytics, Cloud e Edge Computing. Meu objetivo é colaborar com projetos inovadores e contribuir para a transformação digital e confiabilidade de sistemas.
+Neste momento, sou Estagiário de High Frequency Trading na Nova Futura Investimentos e Embaixador Digital da Ada Tech, 
+onde ajudo a promover o ensino de tecnologia e estudo tópicos em alta no setor, como Ciência de Dados, Analytics, Cloud e Edge Computing. 
+Meu objetivo é colaborar com projetos inovadores e contribuir para a transformação digital e confiabilidade de sistemas.
 
 ## 🚀 Tecnologias e Ferramentas 🛠️
 ### 🔹 Frontend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20"/> & Backend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="23" height="23"/>  
+- SGBD's: MongoDB, PostgreSQL, DBeaver, MySQL e Oracle Developer
 - HTML
 - CSS
 - Angular
@@ -13,7 +16,6 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 - Axios
 - Flask
 - Spring Boot
-- SGBD's: MongoDB, PostgreSQL, DBeaver, MySQL e Oracle Developer
 
 ### 🔹 Computação/Servicos em Nuvem <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" height="20"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> 
 - Microsoft Azure
