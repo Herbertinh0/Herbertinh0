@@ -13,6 +13,7 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 - Axios
 - Flask
 - Spring Boot
+- SGBD's: MongoDB, PostgreSQL, DBeaver, MySQL e Oracle Developer
 
 ### 🔹 Computação/Servicos em Nuvem <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" height="20"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> 
 - Microsoft Azure
@@ -25,8 +26,8 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 - GitLab
 
 ### 🔹 Desenvolvimento de Aplicações 📲
-- Microsoft Power Apps
-- Serviços Office 365 Bussiness
+- Microsoft Power Platform
+- Serviços 365 + Copilot Pro (Bussiness)
 
 ### 🔹 Containerização e Orquestração <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="25" height="25"/> 
 - Docker
@@ -46,12 +47,11 @@ Atualmente, sou Embaixador Digital da Ada Tech, onde ajudo a promover o ensino d
 ## Linguagens de Programação     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="27" height="27"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="25" height="25"/>
           
 - Python
-- Java 
+- SQL e NoSQL 
 - JavaScript
-- SQL e NoSQL (PostgreSQL, MongoDB, MySQL e Oracle Developer)
+- Java
+- Kotlin
 - Swift
-- Fortran
-- Scratch
 
 ## Estou sempre aberto a novas oportunidades, desafios e colaborações. Se você quer trocar ideias, contribuir com um projeto ou apenas bater um papo sobre tecnologia e suas utilidades, fique à vontade para se conectar! 😁⤵️
 
